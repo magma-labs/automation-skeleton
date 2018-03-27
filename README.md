@@ -1,6 +1,6 @@
 ## Skeleton for test automation projects
 
-This project is intended to work with Firefox plugin Kakalon automation recorder, selecting the option export tests as Rspec.
+This project is intended to work with Firefox plugin Katalon automation recorder, selecting the option export tests as Rspec.
 
 ### How to use it
 
